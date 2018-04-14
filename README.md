@@ -26,12 +26,14 @@ Test Accuracy  = 0.998
 ```
 
 #### Contents 
-* [glove_sms.ipynb](glove_sms.ipynb) Jupyter Notebook containing the classification models. 
-* [glove_sms_utils.py](glove_sms_utils.py) Python scrypt containing some auxiliary functions.
-* [cm_heat_plots.py](cm_heat_plots.py)  Python scrypt containing functions to create confusion matrix plots.
-* [spelling_v2.py](spelling_v2.py) Python scrypt containing a spelling corrector.
-* [media](media) Output and auxiliary images.
-* [README.md](README.md) this file.
+
+* [glove_sms.ipynb](glove_sms.ipynb): Jupyter Notebook containing the classification models. 
+* [glove_sms_utils.py](glove_sms_utils.py): Python scrypt containing some auxiliary functions.
+* [cm_heat_plots.py](cm_heat_plots.py):  Python scrypt containing functions to create confusion matrix plots.
+* [spelling_v2.py](spelling_v2.py): Python scrypt containing a spelling corrector.
+* [data](data): Auxiliary data files used for the spelling corrector and the corrector's output. NOTE: it does not contain the data for the analysis, that data can be downloaled here [direct link](https://www.kaggle.com/uciml/sms-spam-collection-dataset/downloads/sms-spam-collection-dataset.zip).
+* [media](media): Output and auxiliary images.
+* [README.md](README.md): this file.
 
 <br>
 <p align="center">
