@@ -1,0 +1,7 @@
+README.html
+.ipynb_checkpoints/**
+__pycache__/**
+spam.csv
+ignore/**
+sms_LTSM/**
+my_nlp_paths.py
